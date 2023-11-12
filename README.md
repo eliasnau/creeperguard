@@ -5,6 +5,8 @@
 > The CreeperGuard Plugin is your ultimate solution to prevent Creeper-related disasters while keeping the explosive danger intact in your Minecraft world. Keep your structures safe without sacrificing the adrenaline rush of Creeper encounters.
 
 </br>
+</br>
+</br>
 
 ### Key Features:
 - Structure Safety: With CreeperGuard, your structures remain unscathed as Creepers can no longer destroy blocks upon explosion. Your hard work building magnificent creations, cozy shelters, or complex redstone contraptions stays protected.

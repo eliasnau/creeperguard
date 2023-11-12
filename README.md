@@ -1,4 +1,4 @@
-<img alt="blackbird-logo" align="left" width="300" height="300" src="assets/img/BlackSearch.png">
+<img alt="creeper-guard-logo" align="left" width="300" height="300" src="CreeperGuardIcon.png">
 <h1>CreeperGuard Plugin</h1>
 
 ### Description:

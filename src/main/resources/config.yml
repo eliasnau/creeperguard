@@ -1,0 +1,6 @@
+# This is the default configuration for CreeperGuard
+# You can modify these values as needed
+
+# Settings related to Creeper explosions
+creeper_destroy_blocks: true # Whether Creeper explosions should destroy blocks (true or false)
+creeper_can_explode: true # If false creeper don't explode! They don't to damage and don't destroy anything

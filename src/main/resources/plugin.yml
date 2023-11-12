@@ -1,0 +1,4 @@
+name: CreeperGuard
+version: '${project.version}'
+main: de.siliconvalley77.creeperguard.Main
+api-version: '1.19'

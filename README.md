@@ -17,4 +17,4 @@
 
 - Simple Integration: Installing and managing the CreeperGuard Plugin is straightforward. It's compatible with popular server platforms like Bukkit, Spigot, and Paper, making it accessible to a wide range of Minecraft server owners.
 
-#### Whether you're running a survival server, crafting exciting minigames, or just want to protect your impressive builds, the CreeperGuard Plugin is a game-changer. It strikes the perfect balance between maintaining the thrill of Creeper encounters and safeguarding your valuable blocks. Embrace controlled chaos with this essential plugin! 
+### Whether you're running a survival server, crafting exciting minigames, or just want to protect your impressive builds, the CreeperGuard Plugin is a game-changer. It strikes the perfect balance between maintaining the thrill of Creeper encounters and safeguarding your valuable blocks. Embrace controlled chaos with this essential plugin! 
